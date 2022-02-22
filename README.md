@@ -7,4 +7,7 @@
 * .gitignore file to indicate which one is uploaded
 * the README.md file to show the homepage of this repo
 
+## Screenshots for DDT/TDD/JUnit 
+![DDT-TDD-JUnit code](https://github.com/LyDuy284/math-util-1503/blob/main/screenshots/DDT-TDD-JUnit.png) 
+
 #### © 2022 LyDuy284
